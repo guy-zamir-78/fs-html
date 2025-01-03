@@ -1,0 +1,32 @@
+body{
+    font-size: 17px;;
+  }
+
+  .heading-element {
+    border: 1px solid green;
+  }
+
+  .price {
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+  }
+
+  .car {
+    width: 500px;
+    height: 500px;
+  }
+
+  div {
+    margin: 20px 0px;
+  }
+
+  mark{
+    background-color: pink;
+    padding: 5px 10px;
+    margin: 0px 0px;
+    border-radius: 8px;
+  }
+  p{
+    line-height: 2;
+  }
